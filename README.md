@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">A passionate UI\UX designer and frontend developer from India</h3>
+<h3 align="center">A passionate designer from India</h3>
 
 - 🌱 I’m currently learning **scripting language**
 
