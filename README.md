@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">A passionate designer from India</h3>
+<h3 align="center">A passionate Embedded Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **scripting language**
+- 🌱 I’m currently exploring **Embedded Domain**
 
-- 📝 I regularly post my artworks on [https://www.youtube.com/channel/UCnqe-nzBBVBLXyUXm37Xqig](https://www.youtube.com/channel/UCnqe-nzBBVBLXyUXm37Xqig)
+//- 📝 I regularly post my artworks on [https://www.youtube.com/channel/UCnqe-nzBBVBLXyUXm37Xqig](https://www.youtube.com/channel/UCnqe-nzBBVBLXyUXm37Xqig)
 
 - 💬 Ask me about **designing**
 
